@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Glitchy%20Crafting&animation=twinkling&fontSize=90&fontColor=auto)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,rust,html,css,bash,md,blender,discord,mastodon,git,github,rocket,sqlite,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,neovim,rust,html,css,bash,md,blender,discord,mastodon,git,github,rocket,sqlite)](https://skillicons.dev)
 
 ![GlitchyCrafting's GitHub stats](https://github-readme-stats.vercel.app/api?username=glitchycrafting&show_icons=true&theme=dark)
 
