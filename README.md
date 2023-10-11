@@ -2,4 +2,4 @@
 
 A FOSS lover who can kinda program.
 
-My Itch.io: [Gruficlath](https://gruficlath.itch.io)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://gruficlath.itch.io)
