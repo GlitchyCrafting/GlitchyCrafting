@@ -4,3 +4,27 @@ body {
     background-color: var(--bg);
     color: var(--fg);
 }
+
+h1 {
+    text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    font-size: 3.5em;
+    color: var(--purple);
+}
+
+h3 {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color: var(--fg-alt);
+}
+
+hr {
+    color: var(--bg-alt);
+    border-color: var(--bg-alt);
+    border-width: 0.2em;
+    border-style: solid;
+}
