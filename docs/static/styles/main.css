@@ -1,1 +1,5 @@
-@import url("https://raw.githubusercontent.com/GlitchyCrafting/glitchcandy-css/main/glitchcandy.css")
+@import url("https://raw.githubusercontent.com/GlitchyCrafting/glitchcandy-css/main/glitchcandy.css");
+
+body {
+    background-color: var(--bg);
+}
