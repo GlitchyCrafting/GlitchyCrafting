@@ -1,0 +1,3 @@
+[submodule "docs/static/styles/glitchcandy-css"]
+	path = docs/static/styles/glitchcandy-css
+	url = git@github.com:GlitchyCrafting/glitchcandy-css.git
