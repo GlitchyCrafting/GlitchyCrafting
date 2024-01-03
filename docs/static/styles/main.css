@@ -1,5 +1,6 @@
-@import "static/styles/glitchcandy-css/glitchcandy.css";
+@import "glitchcandy-css/glitchcandy.css";
 
 body {
     background-color: var(--bg);
+    color: var(--fg);
 }
