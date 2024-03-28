@@ -11,9 +11,8 @@ FOSS enthusiast, color enjoyer, somewhat programmer.
 > *(Another chainsaw that is)* <br>
 >  [**Jaco Van Niekerk (Feb 25, 2022)**](https://stackoverflow.com/questions/3536153/c-dynamically-growing-array)
 
-> *If you don't know how to unzip a zip file,*
-> *get someone who knows how to use a computer to help you.*
-> <br>
+> *If you don't know how to unzip a zip file,* <br>
+> *get someone who knows how to use a computer to help you.* <br>
 > [**tModLoader Docs** (Manual Installation - Step 2)](https://github.com/tModLoader/tModLoader/wiki/tModLoader-guide-for-players#manual-installation)
 
 <!--*Co-founder of [Goofy Ah Productions](https://github.com/Goofy-Ah-Productions)*-->
